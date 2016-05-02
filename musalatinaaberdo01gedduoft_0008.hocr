@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musalatinaaberdo01gedduoft_0008.png"; bbox 0 0 2594 3749; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1181 1546 1776 1722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1181 1546 1776 1722">
+     <span class='ocr_line' id='line_1_1' title="bbox 1181 1546 1776 1610; baseline -0.02 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1181 1555 1288 1610; x_wconf 81' lang='lat' dir='ltr'><em>Only</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1315 1563 1404 1607; x_wconf 78' lang='lat'><em>525</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1434 1550 1578 1607; x_wconf 83' lang='lat' dir='ltr'><strong><em>Copies</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1600 1546 1776 1604; x_wconf 77' lang='lat' dir='ltr'><em>printed.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1326 1667 1586 1722; baseline -0.038 -2"><span class='ocrx_word' id='word_1_5' title='bbox 1326 1679 1372 1720; x_wconf 94' lang='lat' dir='ltr'><strong><em>N</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1375 1692 1408 1719; x_wconf 91' lang='lat'><em>0.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1455 1667 1586 1722; x_wconf 61' lang='lat' dir='ltr'><em>sss</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

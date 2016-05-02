@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musalatinaaberdo01gedduoft_0375.png"; bbox 0 0 2594 3749; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 1356 1478 1448">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 1356 1478 1448">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1356 1478 1448; baseline 0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 540 1356 746 1433; x_wconf 62' lang='lat' dir='ltr'>meve&gt;</span> <span class='ocrx_word' id='word_1_2' title='bbox 798 1357 1191 1448; x_wconf 58' lang='lat' dir='ltr'>§naming</span> <span class='ocrx_word' id='word_1_3' title='bbox 1243 1359 1478 1436; x_wconf 71' lang='lat' dir='ltr'><strong>OElub.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 223 1650 1800 1741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 223 1650 1800 1741">
+     <span class='ocr_line' id='line_1_2' title="bbox 223 1650 1800 1741; baseline 0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 223 1650 546 1738; x_wconf 86' lang='lat' dir='ltr'>FIFTH</span> <span class='ocrx_word' id='word_1_5' title='bbox 621 1650 1050 1739; x_wconf 76' lang='lat' dir='ltr'>REPORT</span> <span class='ocrx_word' id='word_1_6' title='bbox 1118 1652 1236 1739; x_wconf 79' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1304 1652 1800 1741; x_wconf 68' lang='lat' dir='ltr'><strong>COUNCIL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 897 1973 1138 2056">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 897 1973 1138 2056">
+     <span class='ocr_line' id='line_1_3' title="bbox 897 1973 1138 2056; baseline 0.004 -25"><span class='ocrx_word' id='word_1_8' title='bbox 897 1973 1138 2056; x_wconf 79' lang='lat'>1891.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
